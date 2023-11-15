@@ -5,6 +5,7 @@ from nltk.classify import apply_features
 from nltk.probability import FreqDist
 from nltk.metrics import ConfusionMatrix
 nltk.download('stopwords')
+nltk.download('rslp')
 
 
 #nltk.download()
