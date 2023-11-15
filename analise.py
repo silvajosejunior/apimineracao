@@ -4,10 +4,6 @@ import tkinter as tk
 from nltk.classify import apply_features
 from nltk.probability import FreqDist
 from nltk.metrics import ConfusionMatrix
-nltk.download('stopwords')
-nltk.download('rslp')
-
-
 #nltk.download()
 
 base = [('eu sou admirada por muitos','alegria'),
