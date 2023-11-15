@@ -3,8 +3,8 @@ import nltk
 import tkinter as tk
 from nltk.classify import apply_features
 from nltk.probability import FreqDist
-
 from nltk.metrics import ConfusionMatrix
+nltk.download('stopwords')
 
 
 #nltk.download()
