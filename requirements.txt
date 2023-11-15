@@ -10,7 +10,7 @@ crashtest==0.4.1
 distlib==0.3.7
 dulwich==0.21.6
 fastjsonschema==2.18.1
-filelock==3.13.1
+filelock==3.12.2
 Flask==3.0.0
 gunicorn==21.2.0
 idna==3.4
